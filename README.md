@@ -1,5 +1,6 @@
 # Neural-TweetCorp
-Feedforward neural network
+
+**Task formulation:**
 
 Build classifiers to assess the sentiment of texts. Train models on a dataset from a TweetCorp corpus
 
